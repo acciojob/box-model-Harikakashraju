@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.container{
+	display: flex;
+	gap: 20px;
+	background-color: #D3D3D2;
+	width: 300px;
+	padding: 50px;
+	border: 4px solid rgb(5,5,5);
+	border-radius: 40px;
+}
+.yellow{
+	background-color: yellow;
+	width: 30px;
+	padding: 40px;
+	border-radius: 250px;
+}
+
+.green{
+	background-color: green;
+	width: 30px;
+	padding: 40px;
+	border-radius: 250px;
+}
+
+.red{
+	background-color: red;
+	width: 30px;
+	padding: 40px;
+	border-radius: 250px;
+}
